@@ -3,6 +3,7 @@
     gum
     gh
     kind
+    k3d
     kubectl
     yq-go
     jq
